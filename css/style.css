@@ -105,16 +105,18 @@ nav .play-icon:hover a {
  .hero-img img{
  width: 600px;
 position: absolute;
-right: 120px;
-top: 190px;
+right: 20px;
+top: 20px;
  }
 .btn-play-hero{
    position: relative;
    margin-top: -320px;
-   margin-right: 130px;
+   margin-right: 200px;
 }
  .btn-play-hero img{
    width: 70px;
+   top: 170px;
+  right: 70px;
  }
  .button-menu a{
     font-size: 1rem;
